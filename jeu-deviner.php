@@ -11,7 +11,7 @@ echo "Vous avez 10 à 15 essais pour trouver le nombre.";
 echo PHP_EOL;
 echo "Bonne chance!";
 echo PHP_EOL;
-//Petit espace pour aérer le texte //
+//Saut de ligne pour aérer le texte //
 echo PHP_EOL;
 
 //Menu//
