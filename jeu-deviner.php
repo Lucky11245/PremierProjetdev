@@ -28,9 +28,9 @@ while (true) { //While qui est utilisé sur tout le program ce qui permet de rel
     echo PHP_EOL;
 
 //Variable//
-$choix = (readline("Faites votre choix : ")); //Demander à l'utilisateur de faire un choix
-$nombre_aleatoire = random_int(1,100);  //Nombre aléatoire entre 1 et 100
-$date = date('d/m/Y H:i:s'); //date : jour/mois/année sous 4caractères - 24h/minutes/secondes
+    $choix = (readline("Faites votre choix : ")); //Demander à l'utilisateur de faire un choix
+    $nombre_aleatoire = random_int(1,100);  //Nombre aléatoire entre 1 et 100
+    $date = date('d/m/Y H:i:s'); //date : jour/mois/année sous 4caractères - 24h/minutes/secondes
 
 //Choix 1//
     if ($choix == 1) {
