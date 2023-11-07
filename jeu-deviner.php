@@ -16,16 +16,16 @@ echo PHP_EOL;
 
 //Menu//
 while (true) { //While qui est utilisé sur tout le program ce qui permet de relancer le menu ci-dessous
-echo "1. Jouer";
-echo PHP_EOL;
-echo "2. Voir les résultats";
-echo PHP_EOL;
-echo "3. Voir les résultats d'un jour";
-echo PHP_EOL;
-echo "4. Voir les résultats d'un joueur";
-echo PHP_EOL;
-echo "5. Quitter";
-echo PHP_EOL;
+    echo "1. Jouer";
+    echo PHP_EOL;
+    echo "2. Voir les résultats";
+    echo PHP_EOL;
+    echo "3. Voir les résultats d'un jour";
+    echo PHP_EOL;
+    echo "4. Voir les résultats d'un joueur";
+    echo PHP_EOL;
+    echo "5. Quitter";
+    echo PHP_EOL;
 
 //Variable//
 $choix = (readline("Faites votre choix : ")); //Demander à l'utilisateur de faire un choix
